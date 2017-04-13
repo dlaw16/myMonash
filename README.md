@@ -4,14 +4,7 @@
 # myMonash
 
 var listOfAllKnownAuthors = []
-
-class BookStore
-{
-    constructor(name, address, owner)
-    {
-        this._name = name;
-        this._address = address;
-        this._owner = owner;
+aAAAAAAAAAAAAAAAAAA
         this._booksAvailable = [];
         this._totalCopiesOfAllBooks = 0
     }
